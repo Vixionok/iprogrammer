@@ -1,3 +1,5 @@
 'use strict'
+//test
 let a = 10;
-console.log(a);
+let s = 20;
+console.log(a + s);
